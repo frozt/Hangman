@@ -75,9 +75,6 @@ public class Game implements Runnable{
 		
 	}
 
-	/**
-	 * @param args
-	 */
 
 	
 }
