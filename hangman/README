@@ -1,0 +1,9 @@
+This is a client server multi-threat hangman game.
+First start server. You can enter a port number or use default port if left empty.
+The port will be used for socket communication
+When server is ready you can check it from java console, you can start client
+If a different port is defined enter it or leave empty for default port.
+If server is running localhost you can leave ip empty again otherwise enter server ip.
+For each connected client there will be a threat.
+when you start the game client will get the word from server and each win will be counted for 1 point for total score.
+At most 10 clients can connect at the same time which is set in the server part.
